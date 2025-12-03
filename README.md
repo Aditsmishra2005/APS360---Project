@@ -1,6 +1,6 @@
-# APS360 - Parkinsons Pathfinder Project
+# APS360 - Parkinson's Pathfinder Project
 
-This repository contains the Parkinsons Pathfinder project for APS360.
+This repository contains the Parkinson's Pathfinder project for APS360.
 
 ## Repository Structure
 
@@ -24,4 +24,4 @@ Contains Jupyter notebooks and related files:
 
 ## About the Project
 
-The Parkinsons Pathfinder is an APS360 project focused on using machine learning techniques to analyze brain scan images for Parkinson's disease detection.
+The Parkinson's Pathfinder is an APS360 project focused on using machine learning techniques to analyze brain scan images for Parkinson's disease detection.
